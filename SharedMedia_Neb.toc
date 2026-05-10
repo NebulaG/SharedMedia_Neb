@@ -1,0 +1,7 @@
+## Interface: 120005
+## Title: SharedMedia_Neb
+## Notes: Custom SharedMedia sounds
+## Author: Neb
+## Version: 1.0
+
+RegisterSounds.lua
